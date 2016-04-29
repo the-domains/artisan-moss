@@ -1,6 +1,6 @@
 name: Artisan Moss
 favicon: null
-layout_spectrum: 0.348330128705129
+layout_spectrum: 1
 typography_spectrum: 0.5208424786105752
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#f1f6f9'
+    - '#101115'
+    - '#bbbcbe'
+    - '#8f6d64'
+    - '#387e09'
   brandStrength: 0.6291240437421948
   lightness: 0.17459546425379813
   saturation: 0.04998768540099263
